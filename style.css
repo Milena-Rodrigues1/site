@@ -43,10 +43,28 @@ font-size: 24px;}
         {width: 50%;}
 
         .escola-titulo
-        {padding: 50px 30px; }
+        {padding: 50px 30px
+         }
 
+  .alunos-titulo
+{
+    text-align:  center;
+    padding: 50px 0;
+}
 
-    
- 
+.estudante-icone
+{ width: 45px;}
 
-   
+.estudante-div{
+     text-align: center;
+}
+
+.aluno-um{
+ width: 20%
+ }
+ .estudante-titulO
+ {
+     text-align:  center;
+     padding: 50px 0;
+font-size: 30px;
+ }
